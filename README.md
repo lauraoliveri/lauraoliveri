@@ -1,4 +1,5 @@
- 👋 Hi, I’m @lauraoliveri, I'm from Italy and I am currently attending a course to become a Full Stack Web Developer!!! :-)
+ (°◡°♡)  Hi, I’m Laura!
+ I am a Junior Full Stack Developer based in Italy.
 
 
 <!---
